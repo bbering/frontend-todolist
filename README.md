@@ -19,7 +19,7 @@ Este projeto utiliza as seguintes tecnologias e dependências:
 Antes de executar o projeto, certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
 1. **Node.js** (versão >= 16.0.0): Para gerenciar dependências e rodar scripts.
-2. **npm** ou **yarn**: Gerenciador de pacotes para instalar as dependências.
+2. **npm**: Gerenciador de pacotes para instalar as dependências.
 
 ## Como Executar o Projeto
 
